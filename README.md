@@ -1,1 +1,1 @@
-# ECOS Resources
+# Website resources
